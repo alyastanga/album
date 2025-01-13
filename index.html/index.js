@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const mediaUrls = [
         "assets/album/img1.jpg",
         "assets/album/vid1.mp4",
+        "assets/album/vid2.mp4",
     ];
 
     // Add media to the grid
